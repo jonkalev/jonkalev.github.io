@@ -1,6 +1,6 @@
 site: Board Jekyll Theme
 
-url: 
+url: https://jonkalev.github.io
 baseurl: 
 
 collections:
@@ -52,7 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 10
+paginate: 6
 paginate_path: "/blog/page:num/"
 
 grid_alignments:
