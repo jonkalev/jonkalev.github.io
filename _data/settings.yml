@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Board
+  site_title: Jon Kalev
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Board – a stylish full-width masonry grid Jekyll theme
+  footer_tagline: All content © Jon Kalev 2021
 
 grid_settings:
   overlay_opacity: 0.8
@@ -32,7 +32,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: https://www.facebook.com/johan.kalev.7/
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
