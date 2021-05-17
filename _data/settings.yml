@@ -79,10 +79,10 @@ font_settings:
   regular_weight: 300
   bold_weight: 500
   site_title: '<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">'
-    small_size: 22
-    medium_size: 26
-    large_size: 30
-    weight: 500
+    small_size: 20
+    medium_size: 22
+    large_size: 24
+    weight: 300
     letter_spacing: -0.02
   menu:
     small_size: 30
