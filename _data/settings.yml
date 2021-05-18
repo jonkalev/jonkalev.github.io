@@ -78,7 +78,7 @@ font_settings:
   body_font: '"Poppins", sans-serif'
   regular_weight: 300
   bold_weight: 300
-  site_title: '<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">'
+  site_title: 300
     small_size: 20
     medium_size: 22
     large_size: 24
