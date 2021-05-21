@@ -73,6 +73,8 @@
 	font-size: $grid-item-title-medium;
 	font-weight: $grid-item-subtitle-weight;
 	letter-spacing: $grid-item-title-spacing;
+	font-family: 'Arial';
+	font-size: 12px;
 
 	@include mq(tabletp) {
 		font-size: $grid-item-title-medium;
