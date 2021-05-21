@@ -81,7 +81,8 @@
 	}
 
 	@include mq(laptop) {
-		font-size: $grid-item-title-large;
+		font-size: $grid-item-title-small;
+		
 	}
 }
 
