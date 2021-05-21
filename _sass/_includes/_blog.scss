@@ -70,8 +70,8 @@
 
 .blog-post__title {
 	color: $overlay-text-color;
-	font-size: 26px;
-	font-weight: 26px;
+	font-size: $grid-item-title-medium;
+	font-weight: $grid-item-subtitle-weight;
 	letter-spacing: $grid-item-title-spacing;
 
 	@include mq(tabletp) {
