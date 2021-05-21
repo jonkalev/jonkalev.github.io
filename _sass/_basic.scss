@@ -44,7 +44,7 @@ h1, .h1 {
 	}
 
 	@include mq(laptop) {
-		font-size: $h1-large;
+		font-size: 24px;
 	}
 }
 
