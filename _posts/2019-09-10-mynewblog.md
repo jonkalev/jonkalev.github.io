@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to my new blog !
 subtitle: 
-bigimg: https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg
+featured_image: https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg
 
 ---
   <figcaption><p style="color:LightGray;"> <i>Clear Lake, San Juan Mountains, Colorado</i></p></figcaption>
