@@ -7,8 +7,8 @@ featured_image: 'https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg'
 ---
   <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg">
-<br>
-  <figcaption>Clear Lake, San Juan Mountains, Colorado</figcaption>
+
+  <figcaption><br>Clear Lake, San Juan County, Colorado</figcaption>
   </figure>
 
 Welcome to my new little blog/journal, code wise its entirely an experiment in jekyll, javascript and using github and a open source repository instead of a traditional hosting platform. As time allows I'll add my older posts and re-populate it. This system of hosting a site on MIT's server has no database so the old cannot be imported in a way I can figure out. 
