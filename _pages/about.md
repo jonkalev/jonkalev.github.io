@@ -1,6 +1,6 @@
 ---
-title: About
-subtitle: The dark space is ranching, ranching's realm is really then, definable as where most people are absent.
+title: 
+subtitle: The dark space is ranching, ranching's realm is really then, definable as where most people are absent -Paul F. Starrs
 description:
 featured_image: https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg
 ---
