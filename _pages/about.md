@@ -1,7 +1,7 @@
 ---
 title: About
-subtitle: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
-description: Board is a stylish full-width masonry grid theme.
+subtitle: The dark space is ranching, ranching's realm is really then, definable as where most people are absent.
+description:
 featured_image: https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg
 ---
 
@@ -10,9 +10,6 @@ featured_image: https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg
   <figcaption> Calving season at Mathison's Pond</figcaption>
   </figure>
 <br  />
-<blockquote>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.
-<br> Paul F. Starrs
-</blockquote>
 
 <p> <strong>Photographer and rancher</strong>.
   <p>
