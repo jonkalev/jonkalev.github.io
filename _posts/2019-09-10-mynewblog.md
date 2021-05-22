@@ -51,6 +51,6 @@ Nothing has changed. So for me its time to just do that accept that, not allow o
 I'm headed north in the morning, as I'm going to see about spend the winter in Wyoming as I've committed work as a planner for six months.
 The real word, while I read what Jung, Freud, James and Rogers have to say about that self-excavation thing.
 
-And let my voice speak only through my visual work, 
-camera in hand. 
+And let my voice speak through visual work, 
+camera in hand. Few words if any.
 No newspapering.
