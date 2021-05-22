@@ -7,7 +7,7 @@ featured_image: https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg
 
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg" alt="Calving season">
-  <figcaption> Calving season at Mathison's Pond</figcaption>
+  <figcaption> <br>Calving season at Mathison's Pond</figcaption>
   </figure>
 <br  />
 
