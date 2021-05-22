@@ -1,5 +1,5 @@
 ---
-title: 
+title:. 
 subtitle: The dark space is ranching, ranching's realm is really then, definable as where most people are absent -Paul F. Starrs
 description:
 featured_image: https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg
@@ -11,8 +11,7 @@ featured_image: https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg
   </figure>
 <br  />
 
-<p> ##Photographer and rancher
-  <p>
+
     I never thought I would be a rancher, even though my grandfather was a cattleman, as was his, and his father before him.  
     After two plus decades of practicing architecture and planning at the age of 54 I retired and bought my family's ranch.  <p>
     Ranching requires days on end working in solitude. In all honesty I work harder now then when I worked a real job. Instead of a computer screen and mediatign endless dsputes between those seeking to develop a landscape and those seeking to preserve it I listen to silence and watch a blue sky and thunderstroms roll in from the Gulf of Mexico in the afternoons.
