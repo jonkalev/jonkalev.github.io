@@ -7,7 +7,7 @@ featured_image: 'https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg'
 ---
   <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg">
-
+<br>
   <figcaption>Clear Lake, San Juan Mountains, Colorado</figcaption>
   </figure>
 
