@@ -7,8 +7,9 @@ featured_image: 'https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg'
 ---
   <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg">
- 
+
   <figcaption>Clear Lake, San Juan Mountains, Colorado</figcaption>
+  </figure>
 
 Welcome to my new little blog/journal, code wise its entirely an experiment in jekyll, javascript and using github and a open source repository instead of a traditional hosting platform. As time allows I'll add my older posts and re-populate it. This system of hosting a site on MIT's server has no database so the old cannot be imported in a way I can figure out. 
 This open source approach to blogging forces you to use the command line, learn the commands and is very lean code wise. Pages are made using [markdown](https://en.wikipedia.org/wiki/Markdown). I got interested in learning markdown after watching [a film on netflix](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy) about the late Aaron Swartz who co-developed thenlangauge. 
