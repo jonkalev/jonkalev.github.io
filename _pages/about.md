@@ -12,17 +12,17 @@ featured_image: https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg
 <br  />
 
 
-    I never thought I would be a rancher, even though my grandfather was a cattleman, as was his, and his father before him.  
-    After two plus decades of practicing architecture and planning at the age of 54 I retired and bought my family's ranch.  <p>
-    Ranching requires days on end working in solitude. In all honesty I work harder now then when I worked a real job. Instead of a computer screen and mediatign endless dsputes between those seeking to develop a landscape and those seeking to preserve it I listen to silence and watch a blue sky and thunderstroms roll in from the Gulf of Mexico in the afternoons.
-    Make no mistake it is hard, physical work but it connects one to the land, in that connection is a sublime beauty. On this blog I write about these experiences.
+ I never thought I would be a rancher, even though my grandfather was, as was his, and his father before him.  
+After two plus decades of practicing architecture and planning at the age of 54 I retired and bought my family's ranch.  <p>
+Raising cattle requires days on end working in solitude. In all honesty I work harder now then when I worked a real job. Instead of a computer screen and mediatiating disputes between those developing a landscape and those seeking to preservation, I listen to silence and watch a blue sky and thunderstroms roll in from the Gulf of Mexico in the afternoons.
+    Make no mistake it is hard, brutally physical work but it connects you deeply to the land, in that connection is a sublime beauty. 
       
       
-  My choice to pick up a camera came after having taken a year sabbatical working as an alpine guide in the San Juan mountains of southwest Colorado. In the process of recovery from the "real world" I saw what can best be described as a community formed of a geology and geography as opposed to the traditiponal view of man imposing his will upon a landscape. Forests became less a vista or scenic experience and more a host organism.
+  My choice to pick up a camera came after having taken a year sabbatical working as an alpine guide in the San Juan mountains of southwest Colorado. In the process of recovery from the "real world" I saw what can best be described as a community formed of a geology and geography as opposed to the traditional view of man imposing his will upon a landscape. Forests became less a vista or scenic experience and more a host organism.
 <p>
   I'm always interested in developing compelling content, especially if its portraiture, storytelling or related to rural culture and their respective landscapes. Always open to ideas and dialogue. I work alone, natural light, little or no editing, minimalist approach. One camera, a fuji xpro-3 and three fixed lenses, 16, 35, and 50.
   
-  I make no effort to market myself, no cold calls, no promos, etc. just word of mouth or if you stumble upon this site or my instagram account.
+  I make no effort to market myself, no promos, etc. just word of mouth or if you stumble upon this site or instagram account.
 
 
 <p>Inspirations:  <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>,  <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>,  <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
