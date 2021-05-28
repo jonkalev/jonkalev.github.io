@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Micco and Autie
+title: 
 subtitle: 
 featured_image: https://jonkalev.s3-us-west-2.amazonaws.com/_20210507_02.jpg
 
